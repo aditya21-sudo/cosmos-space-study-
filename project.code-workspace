@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Cosmos-main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"python-envs.pythonProjects": [
+			{
+				"path": "my_cosmos",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip"
+			}
+		]
+	}
+}
